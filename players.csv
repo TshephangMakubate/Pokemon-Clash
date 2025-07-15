@@ -1,0 +1,121 @@
+id,name,previous_score,game1_score,game2_score,game3_score,hobby
+0,John,10,800,820,780,Reading
+1,Alice,10,650,700,690,Painting
+2,Michael,10,510,540,560,Gardening
+3,Emily,10,570,590,600,Running
+4,David,10,720,740,760,Swimming
+5,Sophia,10,840,860,820,Cooking
+6,James,0,750,780,760,Photography
+7,Emma,0,920,940,900,Music
+8,Oliver,10,470,490,480,Chess
+9,Izzy,10,980,990,960,Painting
+10,William,10,710,730,700,Reading
+11,Sophia,10,750,780,740,Dancing
+12,Alexander,10,590,610,600,Traveling
+13,Sofia,10,880,900,860,Hiking
+14,Michael,10,690,710,670,Running
+15,Charlotte,10,810,830,800,Cycling
+16,Matthew,0,620,640,600,Painting
+17,Ava,0,740,760,720,Swimming
+18,Benjamin,0,670,690,660,Writing
+19,Amelia,0,950,970,930,Shopping
+20,Lucas,0,530,550,520,Playing instruments
+21,Harper,10,910,930,890,Photography
+22,Ethan,10,800,820,780,Cooking
+23,Evelyn,10,620,640,600,Painting
+24,Logan,10,720,740,700,Hiking
+25,Mia,10,890,910,870,Reading
+26,Daniel,10,510,530,490,Music
+27,Liam,10,750,770,730,Dancing
+28,Chloe,0,980,990,960,Traveling
+29,Harper,10,720,740,700,Sports
+30,Max,10,750,770,730,Dancing
+31,Bella,0,920,940,900,Music
+32,Charlie,10,810,830,800,Cycling
+33,Lucy,10,670,690,660,Writing
+34,Daisy,10,710,730,700,Reading
+35,Buddy,10,740,760,720,Swimming
+36,Milo,0,750,780,760,Photography
+37,Sophie,0,980,990,960,Painting
+38,Rocky,10,720,740,700,Hiking
+39,Cooper,0,840,860,820,Cooking
+40,Bailey,10,620,640,600,Painting
+41,Luna,10,740,760,720,Painting
+42,Ruby,10,750,770,730,Traveling
+43,Toby,10,920,940,900,Music
+44,Jake,10,810,830,800,Cycling
+45,Sadie,10,670,690,660,Writing
+46,Coco,10,710,730,700,Reading
+47,Lola,0,740,760,720,Swimming
+48,Buster,10,750,770,730,Dancing
+49,Buddy,0,980,990,960,Painting
+50,Bailey,10,720,740,700,Hiking
+51,Sophie,10,840,860,820,Cooking
+52,Bella,10,620,640,600,Painting
+53,Max,10,740,760,720,Painting
+54,Milo,10,750,770,730,Traveling
+55,Sadie,10,920,940,900,Music
+56,Luna,0,810,830,800,Cycling
+57,Toby,0,670,690,660,Writing
+58,Coco,10,710,730,700,Reading
+59,Lola,10,740,760,720,Swimming
+60,GamerBoy,10,810,830,800,Cycling
+61,GameMaster,10,720,740,700,Hiking
+62,ProGamer,10,880,900,860,Reading
+63,TheGamer,10,750,770,730,Dancing
+64,GameChanger,10,840,860,820,Cooking
+65,GamingProdigy,10,620,640,600,Painting
+66,PixelPilot,0,750,770,730,Dancing
+67,CyberKnight,0,920,940,900,Music
+68,ConsoleWarrior,10,810,830,800,Cycling
+69,VirtualVoyager,10,670,690,660,Writing
+70,ByteBrawler,0,710,730,700,Reading
+71,PixelPioneer,10,740,760,720,Swimming
+72,GameGuru,10,750,770,730,Photography
+73,TheGamester,10,980,990,960,Gardening
+74,QuestMaster,10,720,740,700,Hiking
+75,GamingLegend,10,840,860,820,Cooking
+76,CodeCrusader,10,620,640,600,Painting
+77,PixelPirate,10,750,770,730,Dancing
+78,ConsoleKing,0,880,900,860,Reading
+79,PixelWarrior,10,750,770,730,Dancing
+80,GameWizard,10,920,940,900,Music
+81,DigitalDynamo,0,810,830,800,Cycling
+82,GameSlayer,10,670,690,660,Writing
+83,VirtualVictor,10,710,730,700,Reading
+84,PixelPaladin,10,740,760,720,Swimming
+85,CyberCommander,0,750,770,730,Photography
+86,ConsoleCrusader,0,980,990,960,Painting
+87,CodeConqueror,0,720,740,700,Hiking
+88,PixelPioneer,10,840,860,820,Cooking
+89,GameMaster,0,620,640,600,Painting
+90,Pikachu,10,810,830,800,Cycling
+91,Samus,10,720,740,700,Hiking
+92,Link,10,880,1200,860,Reading
+93,Sonic,10,750,770,730,Dancing
+94,Mario,10,840,860,820,Cooking
+95,Zelda,10,620,640,600,Painting
+96,Bowser,10,750,770,730,Dancing
+97,Lara,0,920,1040,900,Music
+98,Kratos,10,810,830,800,Cycling
+99,Yoshi,0,670,690,660,Writing
+100,Donkey Kong,10,710,730,700,Reading
+101,Master Chief,10,740,760,720,Swimming
+102,Banjo,10,750,770,730,Photography
+103,Jill Valentine,0,980,990,960,Painting
+104,Ryu,10,720,740,700,Hiking
+105,Luigi,0,840,860,820,Cooking
+106,Sephiroth,10,620,640,600,Painting
+107,Mega Man,0,750,770,730,Dancing
+108,Fox McCloud,0,880,900,860,Reading
+109,Princess Peach,0,750,770,730,Dancing
+110,Scorpion,10,1020,940,900,Music
+111,Solid Snake,10,810,830,800,Cycling
+112,Kirby,10,670,690,660,Writing
+113,Princess Zelda,10,710,730,700,Reading
+114,Sackboy,10,740,760,720,Swimming
+115,Sora,10,750,770,730,Photography
+116,Mewtwo,0,980,990,960,Painting
+117,Gordon Freeman,0,999,1030,700,Hiking
+118,Sly Cooper,10,840,860,820,Cooking
+119,Marcus Fenix,10,620,640,600,Painting

@@ -1,0 +1,7 @@
+A: Display player information by ID
+B: Display the lowest scoring player
+C: Display the highest scoring player
+D: Display top players
+E: Find players
+P: Play Game
+Q: Quit
